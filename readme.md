@@ -1,0 +1,2 @@
+This project is to test the HTML knowledge that I have aquired. The goal is to build a basic recipe 
+website. This will demonstrate the ability to create a webpage, including the HTML, images, links, and everything else learned through The Odin Project. 
