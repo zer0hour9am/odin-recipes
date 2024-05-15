@@ -1,3 +1,8 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .title {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -8,9 +13,43 @@
 ul,
 a {
     font-size: 25px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     list-style-type: none;
+    margin: 30px 30px 0 0;
+}
+
+.listone,
+.listtwo,
+.listthree {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgba(86, 69, 145, 0.397);
+    padding: 10px
+    
+}
+
+.listone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+}
+
+.listtwo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+}
+
+.listthree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
 }
 
 
@@ -18,5 +57,5 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-}
+    width: 20%;
+   }
